@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta http-equiv="Content-type" content="text/html"; charset="utf-8">
+		<title>Accueil Section BTS SN</title>
+		<link rel="stylesheet" media="screen" type="text/css" href="CSS/site.css">
+	</head>	
+	<body>	
+		<div id="entete">
+		<img class="gauche" src="Images/Logo.jpg" height="195px" width="30%" alt="monLogo">
+		<img class="droite" src="Images/Logo2.png" height="195px" alt="logo2">
+		</div>		
+		<div id="corps">
+				<a href="index.php"><img src="Images/Accueil2.png" height="50px" width="13.75%"alt="accueil" /></a>
+				<a href="Pages/Presentation.php"><img src="Images/Presentation1.png" height="50px" width="13.75%"alt="Présentation" onmouseover="this.src='Images/Presentation2.png'" onmouseout="this.src='Images/Presentation1.png'" /></a>
+				<a href="Pages/CadreDeVie.php"><img src="Images/CadreDeVie1.png" height="50px" width="13.75%"alt="Cadre de Vie" onmouseover="this.src='Images/CadreDeVie2.png'" onmouseout="this.src='Images/CadreDeVie1.png'"/></a>
+				<a href="Pages/1erAnnee.php"><img src="Images/1erAnnee1.png" height="50px" width="13.75%"alt="1ère Année" onmouseover="this.src='Images/1erAnnee2.png'" onmouseout="this.src='Images/1erAnnee1.png'"/></a>
+				<a href="Pages/2ndAnnee.php"><img src="Images/2ndAnnee1.png" height="50px" width="13.75%"alt="2ème Année" onmouseover="this.src='Images/2ndAnnee2.png'" onmouseout="this.src='Images/2ndAnnee1.png'"/></a>
+				<a href="Pages/Localisation.php"><img src="Images/Localisation1.png" height="50px" width="13.75%"alt="Localisation" onmouseover="this.src='Images/Localisation2.png'" onmouseout="this.src='Images/Localisation1.png'"/></a>
+				<a href="Pages/NousJoindre.php"><img src="Images/NousJoindre1.png" height="50px" width="13.75%"alt="Nous Contacter" onmouseover="this.src='Images/NousJoindre2.png'" onmouseout="this.src='Images/NousJoindre1.png'"/></a>
+		<br />
+		<br />
+		<h2><img src="Images/puce.png" class="lower" height="20px" alt="monLogo"> Le site de la section SN du lyc&eacute;e Raymond Queneau d'Yvetot!</h2>
+		<p>Bienvenue sur le site internet de la section BTS SN (système numérique) du lyc&eacute;e Raymond Queneau d'Yvetot. 
+		<br />
+			Ce site a pour but de vous renseigner sur la section, le mat&eacute;riel, les horaires, etc. 
+			Il a &eacute;t&eacute; cr&eacute;e  dans un but &eacute;ducatif pour familiariser les &eacute;l&egrave;ves de la section &agrave; la cr&eacute;ation de sites web.
+		</p>
+		</p>
+		<p class="info">
+		<?php
+			include_once ('compteur/compteur.php');
+			echo 'Nombre de pages visitées sur ce site : '.$compteur.'<br/>';
+			echo 'Votre adresse IP : '.$_SERVER['REMOTE_ADDR'];
+		?>
+		</p>
+		</div>	
+
+		<div id="Pied_de_Page">
+		<p><span class="textepiedpage"><a href="http://www.ac-rouen.fr/">Site rectorat</a> - <a href="http://lycees.ac-rouen.fr/queneau"> Site Lyc&eacutee Raymond Queneau</a> - <a href="http://www.bts-sn-yvetot.fr/">Section BTS SN</a> - 2018</p>
+		</div>	
+	</body>	
+</html>
