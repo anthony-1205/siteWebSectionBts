@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html>
+<html lang="fr">
 
 	<head>
 	
-		<meta http-equiv="Content-type" content="text/html" charset="utf-8">
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 		<title>Cadre de vie Section BTS SN</title>
 		<link rel="stylesheet" media="screen" type="text/css" href="../CSS/site.css">
 		
@@ -12,19 +12,19 @@
 	<body>
 	
 		<div id="entete">
-		<img class="gauche" src="../Images/Logo.jpg" height="195px" alt="monLogo">
-		<img class="droite" src="../Images/Logo2.png" height="195px" alt="logo2">
+		<img class="gauche" src="../Images/Logo.jpg" height="195" alt="monLogo">
+		<img class="droite" src="../Images/Logo2.png" height="195" alt="logo2">
 		</div>
 		
 		<div id="corps">
-				<a href="../index.php"><img src="../Images/Accueil1.png" height="50px" width="13.75%"alt="accueil" onmouseover="this.src='../Images/Accueil2.png'" onmouseout="this.src='../Images/Accueil1.png'"/></a>
-				<a href="Presentation.php"><img src="../Images/Presentation1.png" height="50px" width="13.75%"alt="Présentation" onmouseover="this.src='../Images/Presentation2.png'" onmouseout="this.src='../Images/Presentation1.png'"/></a>
-				<a href="CadreDeVie.php"><img src="../Images/CadreDeVie2.png" height="50px" width="13.75%"alt="Cadre de Vie" /></a>
-				<a href="1erAnnee.php"><img src="../Images/1erAnnee1.png" height="50px" width="13.75%"alt="1ère Année" onmouseover="this.src='../Images/1erAnnee2.png'" onmouseout="this.src='../Images/1erAnnee1.png'"/></a>
-				<a href="2ndAnnee.php"><img src="../Images/2ndAnnee1.png" height="50px" width="13.75%"alt="2ème Année" onmouseover="this.src='../Images/2ndAnnee2.png'" onmouseout="this.src='../Images/2ndAnnee1.png'"/></a>
-				<a href="Localisation.php"><img src="../Images/Localisation1.png" height="50px" width="13.75%"alt="Localisation" onmouseover="this.src='../Images/Localisation2.png'" onmouseout="this.src='../Images/Localisation1.png'"/></a>
-				<a href="NousJoindre.php"><img src="../Images/NousJoindre1.png" height="50px" width="13.75%" alt="Nous Contacter" onmouseover="this.src='../Images/NousJoindre2.png'" onmouseout="this.src='../Images/NousJoindre1.png'"/></a>
-		<h2><img class="puce" src="../Images/puce.png" height="20px" alt="monLogo"> Le lycée ...</h2>
+				<a href="../index.php"><img src="../Images/Accueil1.png" class="boutonMenu" alt="accueil" onmouseover="this.src='../Images/Accueil2.png'" onmouseout="this.src='../Images/Accueil1.png'"/></a>
+				<a href="Presentation.php"><img src="../Images/Presentation1.png" class="boutonMenu" alt="Présentation" onmouseover="this.src='../Images/Presentation2.png'" onmouseout="this.src='../Images/Presentation1.png'"/></a>
+				<a href="CadreDeVie.php"><img src="../Images/CadreDeVie2.png" class="boutonMenu" alt="Cadre de Vie" /></a>
+				<a href="1erAnnee.php"><img src="../Images/1erAnnee1.png" class="boutonMenu" alt="1ère Année" onmouseover="this.src='../Images/1erAnnee2.png'" onmouseout="this.src='../Images/1erAnnee1.png'"/></a>
+				<a href="2ndAnnee.php"><img src="../Images/2ndAnnee1.png" class="boutonMenu" alt="2ème Année" onmouseover="this.src='../Images/2ndAnnee2.png'" onmouseout="this.src='../Images/2ndAnnee1.png'"/></a>
+				<a href="Localisation.php"><img src="../Images/Localisation1.png" class="boutonMenu" alt="Localisation" onmouseover="this.src='../Images/Localisation2.png'" onmouseout="this.src='../Images/Localisation1.png'"/></a>
+				<a href="NousJoindre.php"><img src="../Images/NousJoindre1.png" class="boutonMenu" alt="Nous Contacter" onmouseover="this.src='../Images/NousJoindre2.png'" onmouseout="this.src='../Images/NousJoindre1.png'"/></a>
+		<h2><img class="puce" src="../Images/puce.png" height="20" alt="monLogo"> Le lycée ...</h2>
 		<p> 
 		Le Lycée Raymond Queneau d'Yvetot est un établissement jeune : les premières classes de seconde Générale ont été ouvertes en septembre 1988, en complément des classes d'enseignement professionnel qui préexistaient.<br /><br />
 		A la rentrée 2015, le lycée héberge environ 1468 élèves dont 1039 demi-pensionnaires et 53 internes (28 filles et 25 garçons).Le nombre maximum de place est de 60 (30 filles et 30 garcons).<br /><br />
@@ -35,7 +35,7 @@
 		Le lycée doit continuer à s'affirmer comme un lycée de qualité, qui affiche une cohérence des pôles de formation et qui  impose sa place, son prestige, par son image, ses résultats, la qualité de la  vie scolaire et le niveau de ses offres de formations.
 		</p>
   
-		<h2><img class="puce" src="../Images/puce.png" height="20px" alt="monLogo"> La structure laboratoire BTS</h2>
+		<h2><img class="puce" src="../Images/puce.png" height="20" alt="monLogo"> La structure laboratoire BTS</h2>
 		<p>
 		Le laboratoire BTS est un lieu exclusivement réservé au personnel membre du BTS. Il y est possible de s'y rendre en dehors des heures de cours, pour travailler, surfer sur internet, ou tout simplement se retrouver. Tout le matériel nécessaire à la bonne formation de l'étudiant est mis à sa disposition. Le bâtiment est divisé en deux zones, une pour les cours et devoirs, une pour les travaux pratiques.<br /><br />
 		<img src="../Images/labo.jpg" alt="Photo du labo BTS" />&nbsp;<img src="../Images/labo2.jpg" alt="Photo du labo BTS" /> <br />
@@ -49,7 +49,7 @@
 			<?php
 				include_once ('../compteur/compteur2.php');
 			?>
-		</p>
+		</span></p>
 		</div>
 		
 	</body>

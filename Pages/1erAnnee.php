@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html>
+<html lang="fr">
 
 	<head>
 	
-		<meta http-equiv="Content-type" content="text/html" charset="utf-8">
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 		<title>1er Année Section BTS SN</title>
 		<link rel="stylesheet" media="screen" type="text/css" href="../CSS/site.css">
 		
@@ -12,20 +12,20 @@
 	<body>
 	
 		<div id="entete">
-		<img class="gauche" src="../Images/Logo.jpg" height="195px" alt="monLogo">
-		<img class="droite" src="../Images/Logo2.png" height="195px" alt="logo2">
+		<img class="gauche" src="../Images/Logo.jpg" height="195" alt="monLogo">
+		<img class="droite" src="../Images/Logo2.png" height="195" alt="logo2">
 		</div>
 		
 		<div id="corps">
-				<a href="../index.php"><img src="../Images/Accueil1.png" height="50px" width="13.75%"alt="accueil" onmouseover="this.src='../Images/Accueil2.png'" onmouseout="this.src='../Images/Accueil1.png'"/></a>
-				<a href="Presentation.php"><img src="../Images/Presentation1.png" height="50px" width="13.75%"alt="Présentation" onmouseover="this.src='../Images/Presentation2.png'" onmouseout="this.src='../Images/Presentation1.png'"/></a>
-				<a href="CadreDeVie.php"><img src="../Images/CadreDeVie1.png" height="50px" width="13.75%"alt="Cadre de Vie" onmouseover="this.src='../Images/CadreDeVie2.png'" onmouseout="this.src='../Images/CadreDeVie1.png'"/></a>
-				<a href="1erAnnee.php"><img src="../Images/1erAnnee2.png" height="50px" width="13.75%"alt="1ère Annee" /></a>
-				<a href="2ndAnnee.php"><img src="../Images/2ndAnnee1.png" height="50px" width="13.75%"alt="2ème Annee" onmouseover="this.src='../Images/2ndAnnee2.png'" onmouseout="this.src='../Images/2ndAnnee1.png'"/></a>
-				<a href="Localisation.php"><img src="../Images/Localisation1.png" height="50px" width="13.75%"alt="Localisation" onmouseover="this.src='../Images/Localisation2.png'" onmouseout="this.src='../Images/Localisation1.png'"/></a>
-				<a href="NousJoindre.php"><img src="../Images/NousJoindre1.png" height="50px" width="13.75%" alt="Nous Contacter" onmouseover="this.src='../Images/NousJoindre2.png'" onmouseout="this.src='../Images/NousJoindre1.png'"/></a>
+				<a href="../index.php"><img src="../Images/Accueil1.png" class="boutonMenu" alt="accueil" onmouseover="this.src='../Images/Accueil2.png'" onmouseout="this.src='../Images/Accueil1.png'"/></a>
+				<a href="Presentation.php"><img src="../Images/Presentation1.png" class="boutonMenu" alt="Présentation" onmouseover="this.src='../Images/Presentation2.png'" onmouseout="this.src='../Images/Presentation1.png'"/></a>
+				<a href="CadreDeVie.php"><img src="../Images/CadreDeVie1.png" class="boutonMenu" alt="Cadre de Vie" onmouseover="this.src='../Images/CadreDeVie2.png'" onmouseout="this.src='../Images/CadreDeVie1.png'"/></a>
+				<a href="1erAnnee.php"><img src="../Images/1erAnnee2.png" class="boutonMenu" alt="1ère Annee" /></a>
+				<a href="2ndAnnee.php"><img src="../Images/2ndAnnee1.png" class="boutonMenu" alt="2ème Annee" onmouseover="this.src='../Images/2ndAnnee2.png'" onmouseout="this.src='../Images/2ndAnnee1.png'"/></a>
+				<a href="Localisation.php"><img src="../Images/Localisation1.png" class="boutonMenu" alt="Localisation" onmouseover="this.src='../Images/Localisation2.png'" onmouseout="this.src='../Images/Localisation1.png'"/></a>
+				<a href="NousJoindre.php"><img src="../Images/NousJoindre1.png" class="boutonMenu" alt="Nous Contacter" onmouseover="this.src='../Images/NousJoindre2.png'" onmouseout="this.src='../Images/NousJoindre1.png'"/></a>
 
-		  <h2><img class="puce" src="../Images/puce.png" height="20px" alt="monLogo" class="lower"> Horaires</h2>
+		  <h2><img class="puce" src="../Images/puce.png" height="20" alt="monLogo" class="lower"> Horaires</h2>
   <table summary="Tableau des horaire de première année" class="table1">
 				<caption>HORAIRES DE 1ère ANNEE de la spécialité informatique et réseaux</caption>
 				<tr>
@@ -150,7 +150,7 @@
 				</tr>	
 			</table>
 
-  <h2><img class="puce" src="../Images/puce.png" height="20px" alt="monLogo" class="lower"> Stage</h2>
+  <h2><img class="puce" src="../Images/puce.png" height="20" alt="monLogo" class="lower"> Stage</h2>
   <p>Un stage en entreprise de 6 semaines sera à effectuer, il se réalise en fin d'année de la mi-Mai à la fin du mois de Juin.
 	Durant ce Stage, les élèves devront prendre un maximum d'informations et être attentif afin de réaliser un rapport de Stage.
 	Le stage est obligatoire et permet de valider la première année d'étude.
@@ -163,7 +163,7 @@
 					<?php
 				include_once ('../compteur/compteur2.php');
 			?>
-		</p>
+		</span></p>
 		</div>
 		
 	</body>

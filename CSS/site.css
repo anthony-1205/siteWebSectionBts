@@ -42,6 +42,7 @@ body
 ul
 	{
 	font-family : Colibri, Arial;
+	list-style: square;
 	}
 p
 	{
@@ -125,3 +126,8 @@ a:hover
 	{
 	color: #808080;
 	}
+
+.boutonMenu{
+	height: 50px;
+	width: 13.75%;
+}
