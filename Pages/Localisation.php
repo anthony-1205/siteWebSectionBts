@@ -17,19 +17,18 @@
 		</div>
 		
 		<div id="corps">
-				<a href="../index.php"><img src="../Images/Accueil1.png" height="50" width="14.00%" alt="accueil" onmouseover="this.src='../Images/Accueil2.png'" onmouseout="this.src='../Images/Accueil1.png'"/></a>
-				<a href="Presentation.php"><img src="../Images/Presentation1.png" height="50" width="14.00%" alt="Présentation" onmouseover="this.src='../Images/Presentation2.png'" onmouseout="this.src='../Images/Presentation1.png'"/></a>
-				<a href="CadreDeVie.php"><img src="../Images/CadreDeVie1.png" height="50" width="14.00%" alt="Cadre de Vie" onmouseover="this.src='../Images/CadreDeVie2.png'" onmouseout="this.src='../Images/CadreDeVie1.png'"/></a>
-				<a href="1erAnnee.php"><img src="../Images/1erAnnee1.png" height="50" width="14.00%" alt="1ère Année" onmouseover="this.src='../Images/1erAnnee2.png'" onmouseout="this.src='../Images/1erAnnee1.png'"/></a>
-				<a href="2ndAnnee.php"><img src="../Images/2ndAnnee1.png" height="50" width="14.00%" alt="2ème Année" onmouseover="this.src='../Images/2ndAnnee2.png'" onmouseout="this.src='../Images/2ndAnnee1.png'"/></a>
-				<a href="Localisation.php"><img src="../Images/Localisation2.png" height="50" width="14.00%" alt="Localisation" /></a>
-				<a href="NousJoindre.php"><img src="../Images/NousJoindre1.png" height="50" width="12.50%" alt="Nous Contacter" onmouseover="this.src='../Images/NousJoindre2.png'" onmouseout="this.src='../Images/NousJoindre1.png'"/></a>
+				<a href="../index.php"><img src="../Images/Accueil1.png" class="boutonMenu" alt="accueil" onmouseover="this.src='../Images/Accueil2.png'" onmouseout="this.src='../Images/Accueil1.png'"/></a>
+				<a href="Presentation.php"><img src="../Images/Presentation1.png" class="boutonMenu" alt="Présentation" onmouseover="this.src='../Images/Presentation2.png'" onmouseout="this.src='../Images/Presentation1.png'"/></a>
+				<a href="CadreDeVie.php"><img src="../Images/CadreDeVie1.png" class="boutonMenu" alt="Cadre de Vie" onmouseover="this.src='../Images/CadreDeVie2.png'" onmouseout="this.src='../Images/CadreDeVie1.png'"/></a>
+				<a href="1erAnnee.php"><img src="../Images/1erAnnee1.png" class="boutonMenu" alt="1ère Année" onmouseover="this.src='../Images/1erAnnee2.png'" onmouseout="this.src='../Images/1erAnnee1.png'"/></a>
+				<a href="2ndAnnee.php"><img src="../Images/2ndAnnee1.png" class="boutonMenu" alt="2ème Année" onmouseover="this.src='../Images/2ndAnnee2.png'" onmouseout="this.src='../Images/2ndAnnee1.png'"/></a>
+				<a href="Localisation.php"><img src="../Images/Localisation2.png" class="boutonMenu" alt="Localisation" /></a>
+				<a href="NousJoindre.php"><img src="../Images/NousJoindre1.png" class="boutonMenu" alt="Nous Contacter" onmouseover="this.src='../Images/NousJoindre2.png'" onmouseout="this.src='../Images/NousJoindre1.png'"/></a>
 		<h1><img class="puce" src="../Images/puce.png" height="20" alt="monLogo"> Localisation</h1>
 		  
 		  <p>Le lycée Raymond Queneau est situé en plein coeur de Yvetot, commune de Seine Maritime se trouvant en plein milieu du Pays de Caux.</p>
 		  <p class="images"><img src="../Images/local2.png" alt="image de localisation du lycee" />&nbsp;<img src="../Images/local1.png" alt="image de localisation du lycee" /></p>
-		  <p class="images"><iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.fr/maps?f=q&amp;source=embed&amp;hl=fr&amp;geocode=&amp;q=Rue+du+Docteur+Zamenhof+yvetot&amp;mrt=all&amp;sll=49.619385,0.720978&amp;sspn=0.082075,0.288391&amp;ie=UTF8&amp;ll=49.620275,0.773335&amp;spn=0.020521,0.05579&amp;z=14&amp;output=embed"></iframe><br />
-		  <a href="http://maps.google.fr/maps?f=q&amp;source=embed&amp;hl=fr&amp;geocode=&amp;q=Rue+du+Docteur+Zamenhof+yvetot&amp;mrt=all&amp;sll=49.619385,0.720978&amp;sspn=0.082075,0.288391&amp;ie=UTF8&amp;z=14&amp;ll=49.620275,0.773335">Visionner sur GoogleMap</a></span></p>
+		  <p class="images"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2585.2237394277076!2d0.7707233573122201!3d49.612386465418716!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e0f4238d615f57%3A0x8aa56751f7411e49!2sLyc%C3%A9e%20Raymond%20Queneau!5e0!3m2!1sfr!2sfr!4v1609921408838!5m2!1sfr!2sfr" width="425" height="350" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe><br />
 		
 		</div>
 		

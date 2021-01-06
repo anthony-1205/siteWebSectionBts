@@ -27,16 +27,16 @@
 		
 			<h2><img class="puce" src="../Images/puce.png" height="20" alt="monLogo"> Administration</h2>
 			  <p> Rue du Dr. Zamenhof<br />BP 143<br />76194 Yvetot cedex</p>
-			  <p>T&eacutel. : 02 35 95 12 66</p>
-			  <p>Fax : 02 35 95 32 25<p/>
+			  <p>Tél. : 02 35 95 12 66</p>
+			  <p>Fax : 02 35 95 32 25</p>
 			  <p>E-mail : <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;ce&#46;0762880t&#64;ac&#45;rouen&#46;fr">ce&#46;0762880t&#64;ac&#45;rouen&#46;fr</a>
 			  </p>
 			  
 			  <h2><img class="puce" src="../Images/puce.png" height="20" alt="monLogo"> directeurs d&eacute;l&eacute;gu&eacute;s aux formations professionnelles et technologiques (DDFPT)</h2>
-			  <p>Monsieur  JORIAUX Jean-Luc<br />
-			  T&eacute;l. : 02 35 56 39 05<br />
+			  <p>Monsieur LEDUC Christophe<br />
+			  Tél. : 02 35 56 39 05<br />
 			  Fax : 02 35 95 87 04<br />
-			  E-mail : <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;jean-luc&#46;joriaux&#64;ac&#45;rouen&#46;fr">jean-luc.joriaux&#64;ac&#45;rouen&#46;fr</a>
+			  E-mail : <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;jean-luc&#46;joriaux&#64;ac&#45;rouen&#46;fr">christophe.leduc&#64;ac&#45;normandie&#46;fr</a>
 			  </p>
 			  
 			  <h2><img class="puce" src="../Images/puce.png" height="20" alt="monLogo"> Professeurs</h2>

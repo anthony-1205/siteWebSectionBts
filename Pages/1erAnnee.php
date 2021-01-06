@@ -25,8 +25,8 @@
 				<a href="Localisation.php"><img src="../Images/Localisation1.png" class="boutonMenu" alt="Localisation" onmouseover="this.src='../Images/Localisation2.png'" onmouseout="this.src='../Images/Localisation1.png'"/></a>
 				<a href="NousJoindre.php"><img src="../Images/NousJoindre1.png" class="boutonMenu" alt="Nous Contacter" onmouseover="this.src='../Images/NousJoindre2.png'" onmouseout="this.src='../Images/NousJoindre1.png'"/></a>
 
-		  <h2><img class="puce" src="../Images/puce.png" height="20" alt="monLogo" class="lower"> Horaires</h2>
-  <table summary="Tableau des horaire de première année" class="table1">
+		  <h2><img class="puce lower" src="../Images/puce.png" height="20" alt="monLogo"> Horaires</h2>
+  <table class="table1">
 				<caption>HORAIRES DE 1ère ANNEE de la spécialité informatique et réseaux</caption>
 				<tr>
 					<th rowspan="2">Diciplines</th>
@@ -88,7 +88,7 @@
 				</tr>	
 			</table>
 			<br />
-			<table summary="Tableau des horaire de première année de la spécialité electronique et communication" class="table1">
+			<table class="table1">
 				<caption>HORAIRES DE 1ère année de la spécialité electronique et communication</caption>
 				<tr>
 					<th rowspan="2">Diciplines</th>
@@ -150,7 +150,7 @@
 				</tr>	
 			</table>
 
-  <h2><img class="puce" src="../Images/puce.png" height="20" alt="monLogo" class="lower"> Stage</h2>
+  <h2><img class="puce lower" src="../Images/puce.png" height="20" alt="monLogo" > Stage</h2>
   <p>Un stage en entreprise de 6 semaines sera à effectuer, il se réalise en fin d'année de la mi-Mai à la fin du mois de Juin.
 	Durant ce Stage, les élèves devront prendre un maximum d'informations et être attentif afin de réaliser un rapport de Stage.
 	Le stage est obligatoire et permet de valider la première année d'étude.

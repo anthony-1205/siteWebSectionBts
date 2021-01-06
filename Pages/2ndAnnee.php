@@ -26,7 +26,7 @@
 				<a href="NousJoindre.php"><img src="../Images/NousJoindre1.png" class="boutonMenu" alt="Nous Contacter" onmouseover="this.src='../Images/NousJoindre2.png'" onmouseout="this.src='../Images/NousJoindre1.png'"/></a>
 
   <h2><img class="puce" src="../Images/puce.png" height="20" alt="monLogo"> Horaires</h2>
-  <table summary="Tableau des horaire de deuxième année" class="table1">
+  <table class="table1">
 	<caption>HORAIRES DE 2ème Année de la spécialité informatique et réseaux</caption>
 	<tr>
 		<th rowspan="2">Diciplines</th>
@@ -85,7 +85,7 @@
   </table>
   <br/>
   <br/>
-  <table summary="Tableau des horaire de deuxième année de la spécialité electronique et communication" class="table1">
+  <table class="table1">
 				<caption>HORAIRES DE 2ème Année de la spécialité electronique et communication</caption>
 				   <tr>
 	<th rowspan="2">Diciplines</th>
@@ -152,7 +152,7 @@
   <h2><img class="puce" src="../Images/puce.png" height="20" alt="monLogo"> Projet industriel</h2>
   <p>Les étudiants conduisent des projets à dominante industrielle en seconde année avec soutenance et exposition des travaux. Ce projet est au coeur de leur professionnalisation.</p>
   <h2><img class="puce" src="../Images/puce.png" height="20" alt="monLogo"> Examen</h2>
-  <table summary="Tableau des examen de deuxième année" class="table2">
+  <table class="table2">
 				<caption>EXAMEN DE 2ème Année</caption>
 				<tr>
 					<th >Epreuves</th>
@@ -201,7 +201,7 @@
 				
 				<tr>
 					<td class="white">E6 épreuve professionnelle de synthèse</td>
-					<th colspan="5">
+					<th colspan="3"></th>
 					
 					
 				</tr>
@@ -217,8 +217,8 @@
 					<td class="white">orale</td>
 					<td class="grey">1h</td>
 				</tr>
-				
-					<th colspan="6">Epreuve facultative</th>
+				<tr>
+					<th colspan="4">Epreuve facultative</th>
 				</tr>
 				<tr>
 					<td class="white">Langue vivante étrangère II</td>
