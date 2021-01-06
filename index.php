@@ -37,6 +37,13 @@
 
 		<div id="Pied_de_Page">
 		<p><span class="textepiedpage"><a href="http://www.ac-rouen.fr/">Site rectorat</a> - <a href="http://lycees.ac-rouen.fr/queneau"> Site Lycée Raymond Queneau</a> - <a href="http://www.bts-sn-yvetot.fr/">Section BTS SN</a> - 2018</span></p>
+		<p>
+    		<a href="https://jigsaw.w3.org/css-validator/check/referer">
+				<img style="border:0;width:88px;height:31px"
+				src="https://jigsaw.w3.org/css-validator/images/vcss-blue"
+				alt="CSS Valide !" />
+			</a>
+		</p>
 		</div>	
 	</body>	
 </html>
